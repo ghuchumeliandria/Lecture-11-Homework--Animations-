@@ -7,6 +7,7 @@ body{
     background-image: url(./images/image\ 1.png);
     background-size: 100% 700px;
     background-position: center;
+    background-repeat: no-repeat;
     gap: 30px;
 }
 .container{
